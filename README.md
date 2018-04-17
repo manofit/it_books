@@ -1,5 +1,5 @@
 # it_books
-分享一些自己平日里收集到的好书，经常看到一些网站、博客、个人还需要充值，给钱才可以下载，实在气人，知识就应该共享，哪有收钱的道理？？？
+分享一些自己平日里收集到的好书，经常看到一些网站个人分享一些书籍还需要充值，不是自己写的书，要么别分享，要么就别收费。
 - [程序员的自我修养](https://pan.baidu.com/s/1sNeVPw0BprN2X43otGE5Ng)
 - [OBJECTIVE－C编程之道  IOS设计模式解析](https://pan.baidu.com/s/1DegumrS9DE-re_e4M0xKyg)
 - [深入解析Mac OS X & iOS操作系统](https://pan.baidu.com/s/18LOQK069b5FXBBQvxmDbBA)
