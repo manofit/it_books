@@ -16,3 +16,6 @@
 - [图解密码技术(日)结城浩(著) 人民邮电出版社 ](https://pan.baidu.com/s/1EV2dI2SFud8QMk5urpaw9A)
 - [汇编语言_第2版](https://pan.baidu.com/s/1L_6mRYjjsCtO_13NvYcv2g)
 - [IDA.Pro权威指南中文](https://pan.baidu.com/s/1IppCllTtPBVrc4TeaO-FEw)
+- [iOS核心动画高级技巧](https://pan.baidu.com/s/1QOeur1sL_HtkGfAL_vgU5A)
+- [Effective Objective-C 20 编写高质量iOS与OS X代码的52个有效方法](https://pan.baidu.com/s/1PN7gRtaFWM6XYy8zS0VhLQ)
+- [Objective-C高级编程iOS与OS X多线程和内存管理](https://pan.baidu.com/s/1Ysx92GjfvSR0mVQlWXPoDQ)
