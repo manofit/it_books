@@ -19,3 +19,5 @@
 - [iOS核心动画高级技巧](https://pan.baidu.com/s/1QOeur1sL_HtkGfAL_vgU5A)
 - [Effective Objective-C 20 编写高质量iOS与OS X代码的52个有效方法](https://pan.baidu.com/s/1PN7gRtaFWM6XYy8zS0VhLQ)
 - [Objective-C高级编程iOS与OS X多线程和内存管理](https://pan.baidu.com/s/1Ysx92GjfvSR0mVQlWXPoDQ)
+- [简明python教程](https://pan.baidu.com/s/1Lk3cOr2AZC00vmRvxlgbcw)
+- [Python核心编程(中文第二版)](https://pan.baidu.com/s/1NHw1cYLXNY_XPHfFjB3ONg)
